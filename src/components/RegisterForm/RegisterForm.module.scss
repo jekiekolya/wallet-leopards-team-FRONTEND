@@ -4,13 +4,28 @@
   min-width: 280px;
   padding-left: 20px;
   padding-right: 20px;
+  padding-top: 32px;
+  background-color: rgba(255, 255, 255, 1);
+
+  @include mq(tab){
+    padding-left: 65px;
+    padding-right: 58.5px;
+    padding-top: 40px;
+    padding-bottom: 66px;
+    border-radius: 20px;
+  }
+
+  @include mq(desk){
+    width: 533px;
+  }
 }
 
 .logo {
   width: 120px;
   height: 30px;
-  margin-top: 32px;
   margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .form {
@@ -22,13 +37,19 @@
   margin-bottom: 40px;
   height: 32px;
   width: 100%;
-  padding: 0;
+  padding-left: 50px;
+  padding-bottom: 8px;
   border: none;
   border-bottom: 1px solid #e0e0e0;
   outline: none;
 
   font-size: 18px;
   line-height: 1.5;
+}
+
+.inputIcon {
+position: absolute;
+left: 10px;
 }
 
 .label {
@@ -48,10 +69,22 @@
 @extend %btnGreen;
   margin-bottom: 20px;
   height: 50px;
+
+  @include mq(tab){
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .loginBtn {
   @extend %btnTransperentBlue;
   height: 50px;
   border-radius: 20px;
+
+  @include mq(tab) {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
