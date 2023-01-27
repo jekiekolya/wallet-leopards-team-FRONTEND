@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.c760a499.css",
-    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.aea1a6ec.js",
-    "static/css/65.9c26da8f.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/65.9c26da8f.chunk.css",
-    "static/js/65.03a07395.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/65.03a07395.chunk.js",
+    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.66531465.css",
+    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.7f761979.js",
+    "static/css/272.489441d4.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/272.489441d4.chunk.css",
+    "static/js/272.f21280dd.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/272.f21280dd.chunk.js",
+    "static/js/835.42f8dac5.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/835.42f8dac5.chunk.js",
     "static/css/373.dce541ed.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/373.dce541ed.chunk.css",
     "static/js/373.764f48f6.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/373.764f48f6.chunk.js",
     "static/css/740.1e18ee22.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/740.1e18ee22.chunk.css",
     "static/js/740.76f665fe.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/740.76f665fe.chunk.js",
     "static/js/761.7d59e00d.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/761.7d59e00d.chunk.js",
     "static/js/222.6cb9c311.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/222.6cb9c311.chunk.js",
+    "static/css/137.a33a473a.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/137.a33a473a.chunk.css",
     "static/media/sad_leopard.png": "/wallet-leopards-team-FRONTEND/static/media/sad_leopard.b08903c132daedab7b7b.png",
     "static/media/loginDesk.png": "/wallet-leopards-team-FRONTEND/static/media/loginDesk.9ba04be8971316586062.png",
     "static/media/registerDeskImg.png": "/wallet-leopards-team-FRONTEND/static/media/registerDeskImg.5d52b14df26fa5db288e.png",
@@ -19,19 +21,21 @@
     "static/media/hryvniaLogo.svg": "/wallet-leopards-team-FRONTEND/static/media/hryvniaLogo.8b72370dad1354da2a1e4c59fe17fa4c.svg",
     "index.html": "/wallet-leopards-team-FRONTEND/index.html",
     "static/media/currencyGraf.svg": "/wallet-leopards-team-FRONTEND/static/media/currencyGraf.340c22a500ab5a21cd92.svg",
-    "main.c760a499.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.c760a499.css.map",
-    "main.aea1a6ec.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.aea1a6ec.js.map",
-    "65.9c26da8f.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/65.9c26da8f.chunk.css.map",
-    "65.03a07395.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/65.03a07395.chunk.js.map",
+    "main.66531465.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.66531465.css.map",
+    "main.7f761979.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.7f761979.js.map",
+    "272.489441d4.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/272.489441d4.chunk.css.map",
+    "272.f21280dd.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/272.f21280dd.chunk.js.map",
+    "835.42f8dac5.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/835.42f8dac5.chunk.js.map",
     "373.dce541ed.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/373.dce541ed.chunk.css.map",
     "373.764f48f6.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/373.764f48f6.chunk.js.map",
     "740.1e18ee22.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/740.1e18ee22.chunk.css.map",
     "740.76f665fe.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/740.76f665fe.chunk.js.map",
     "761.7d59e00d.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/761.7d59e00d.chunk.js.map",
-    "222.6cb9c311.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/222.6cb9c311.chunk.js.map"
+    "222.6cb9c311.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/222.6cb9c311.chunk.js.map",
+    "137.a33a473a.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/137.a33a473a.chunk.css.map"
   },
   "entrypoints": [
-    "static/css/main.c760a499.css",
-    "static/js/main.aea1a6ec.js"
+    "static/css/main.66531465.css",
+    "static/js/main.7f761979.js"
   ]
 }
