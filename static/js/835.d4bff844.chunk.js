@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkwallet_leopards_team_FRONTEND=self.webpackChunkwallet_leopards_team_FRONTEND||[]).push([[835],{4835:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});n(2791);var a=n(3329);function r(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("div",{children:"SettingsPage"})})}}}]);
-//# sourceMappingURL=835.d4bff844.chunk.js.map
