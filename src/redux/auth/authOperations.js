@@ -164,7 +164,34 @@ const verifyEmail = createAsyncThunk(
       return thunkAPI.rejectWithValue(e.message);
     }
   }
-); */
+);
+
+const updateUserName = createAsyncThunk(
+  'auth/updateUserName',
+  async (data, thunkAPI) => {
+    try {
+      const response = await axiosBaseUrl.patch('/users/name', data);
+
+      Notify.success('User name succesfully updated');
+      return response.data.data.user.firstName;
+    } catch (e) {
+      Notify.failure(e.message);
+      return thunkAPI.rejectWithValue(e.message);
+    }
+  }
+);
+
+const resendVerification = createAsyncThunk(
+  'users/verify', async (credentials, { rejectWithValue }) => {
+  try {
+    const {data} = await axiosBaseUrl.post('/users/verify', credentials);
+    return data;
+  } catch (error) {
+    Notify.failure(error.message);
+    return rejectWithValue(error.message);
+  }
+  }
+)
 
 const authOperations = {
   register,
@@ -173,6 +200,8 @@ const authOperations = {
   refresh,
   /*   updateAvatar, */
   verifyEmail,
+  updateUserName,
+  resendVerification
 };
 
 export default authOperations;

@@ -8,6 +8,7 @@ const initialState = {
   loading: false,
   error: null,
   isAuth: false,
+  isVerified: false
 };
 
 const handlePending = state => {
@@ -18,6 +19,7 @@ const handlePending = state => {
 const handleRejected = (state, action) => {
   state.loading = false;
   state.error = action.payload;
+  state.isVerified = false
 };
 
 export const authSlice = createSlice({
@@ -115,8 +117,16 @@ export const authSlice = createSlice({
         authOperations.updateUserName.fulfilled,
         (state, { payload }) => {
           state.user.firstName = payload;
-        }
-      ); */
+        })
+      
+      //Verification
+      .addCase(authOperations.verifyEmail.pending, handlePending)
+      .addCase(authOperations.verifyEmail.rejected, handleRejected)
+      .addCase(authOperations.verifyEmail.fulfilled, (state) => {
+        state.loading = false;
+        state.isVerified = true;
+      })
+
   },
 });
 

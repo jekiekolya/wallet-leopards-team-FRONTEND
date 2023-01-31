@@ -3,8 +3,10 @@ const userSelector = state => state.auth.user;
 const isAuth = state => state.auth.isAuth;
 const getCategories = state => state.auth.user.categories;
 const getFirstName = state => state.auth.user?.firstName;
+const getEmail = state => state.auth.user?.email;
 const isLoading = state => state.auth.loading;
-/* const isAvatarLoading = state => state.auth.avatarLoading; */
+const isAvatarLoading = state => state.auth.avatarLoading;
+const isVerified = state => state.auth.isVerified;
 
 export const authSelectors = {
   getToken,
@@ -13,5 +15,7 @@ export const authSelectors = {
   getCategories,
   getFirstName,
   isLoading,
-  /*   isAvatarLoading, */
+  isAvatarLoading,
+  getEmail,
+  isVerified
 };
