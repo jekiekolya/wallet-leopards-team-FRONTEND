@@ -1,6 +1,8 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import { axiosBaseUrl, token } from '../tokenSettingsAxios';
 import { Notify } from 'notiflix';
+import userOperations from 'redux/user/userOperations';
+/* import { useDispatch } from 'react-redux'; */
 
 const register = createAsyncThunk(
   'auth/register',
@@ -28,7 +30,7 @@ const register = createAsyncThunk(
 
 const logIn = createAsyncThunk(
   'auth/login',
-  async (credentials, { rejectWithValue }) => {
+  async (credentials, { rejectWithValue, dispatch }) => {
     const { email, password } = credentials;
     try {
       const { data } = await axiosBaseUrl.post('/auth/login', {
@@ -38,6 +40,7 @@ const logIn = createAsyncThunk(
 
       const currentToken = data.data.token;
       token.set(currentToken);
+      dispatch(userOperations.currentUser());
       return data;
     } catch (error) {
       const { data, status } = error.response;
@@ -69,13 +72,14 @@ const logOut = createAsyncThunk('auth/logout', async (_, thunkAPI) => {
 
 const refresh = createAsyncThunk(
   'auth/refresh',
-  async (_, { getState, rejectWithValue }) => {
+  async (_, { getState, rejectWithValue, dispatch }) => {
     try {
       const currentToken = getState().auth.token;
       if (!currentToken) {
         throw new Error('Error');
       }
       token.set(currentToken);
+      dispatch(userOperations.currentUser());
       return 1;
     } catch (error) {
       return rejectWithValue(error.message);
@@ -137,9 +141,9 @@ const resendVerification = createAsyncThunk(
       return getState().auth.user.categories;
     }
   }
-);
+); */
 
-const removeCategory = createAsyncThunk(
+/* const removeCategory = createAsyncThunk(
   'auth/removeCategory',
   async (credentials, { _, getState }) => {
     const id = credentials;
@@ -155,8 +159,8 @@ const removeCategory = createAsyncThunk(
     }
   }
 );
-
-const updateAvatar = createAsyncThunk(
+ */
+/* const updateAvatar = createAsyncThunk(
   'auth/updateAvatar',
   async (data, thunkAPI) => {
     try {
@@ -195,9 +199,7 @@ const authOperations = {
   logIn,
   logOut,
   refresh,
-  addCategory,
-  removeCategory,
-  updateAvatar,
+  /*   updateAvatar, */
   verifyEmail,
   updateUserName,
   resendVerification
