@@ -177,6 +177,18 @@ const updateUserName = createAsyncThunk(
   }
 );
 
+const resendVerification = createAsyncThunk(
+  'users/verify', async (credentials, { rejectWithValue }) => {
+  try {
+    const {data} = await axiosBaseUrl.post('/users/verify', credentials);
+    return data;
+  } catch (error) {
+    Notify.failure(error.message);
+    return rejectWithValue(error.message);
+  }
+  }
+)
+
 const authOperations = {
   register,
   logIn,
@@ -187,6 +199,7 @@ const authOperations = {
   updateAvatar,
   verifyEmail,
   updateUserName,
+  resendVerification
 };
 
 export default authOperations;
