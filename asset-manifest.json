@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.34be5a5d.css",
-    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.25c61d65.js",
+    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.368143d7.css",
+    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.6c3a20cd.js",
     "static/css/983.a0aa5246.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/983.a0aa5246.chunk.css",
-    "static/js/983.d56a81ed.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/983.d56a81ed.chunk.js",
+    "static/js/983.25be6817.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/983.25be6817.chunk.js",
     "static/css/610.10b1db96.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/610.10b1db96.chunk.css",
-    "static/js/610.13218e99.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/610.13218e99.chunk.js",
+    "static/js/610.14be155a.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/610.14be155a.chunk.js",
     "static/css/373.32ab90df.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/373.32ab90df.chunk.css",
     "static/js/373.87f928b6.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/373.87f928b6.chunk.js",
     "static/css/497.3e57be24.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/497.3e57be24.chunk.css",
@@ -17,7 +17,7 @@
     "static/css/703.56993875.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/703.56993875.chunk.css",
     "static/js/703.c8b90d17.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/703.c8b90d17.chunk.js",
     "static/css/252.95e88624.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/252.95e88624.chunk.css",
-    "static/js/252.dc105311.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/252.dc105311.chunk.js",
+    "static/js/252.b1d2a074.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/252.b1d2a074.chunk.js",
     "static/js/668.f0ca76e1.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/668.f0ca76e1.chunk.js",
     "static/js/196.c57b289b.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/196.c57b289b.chunk.js",
     "static/js/692.1c73c65d.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/692.1c73c65d.chunk.js",
@@ -41,12 +41,12 @@
     "static/media/password_lock.svg": "/wallet-leopards-team-FRONTEND/static/media/password_lock.53dcf1ceffa46ab8ec9ac10e47d8512d.svg",
     "static/media/name.svg": "/wallet-leopards-team-FRONTEND/static/media/name.a7d5d3d3a4cfe3c156f5a1f31b454108.svg",
     "static/media/email.svg": "/wallet-leopards-team-FRONTEND/static/media/email.bbe84bdaa2f575a2555dcbd92c0c1de9.svg",
-    "main.34be5a5d.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.34be5a5d.css.map",
-    "main.25c61d65.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.25c61d65.js.map",
+    "main.368143d7.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.368143d7.css.map",
+    "main.6c3a20cd.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.6c3a20cd.js.map",
     "983.a0aa5246.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/983.a0aa5246.chunk.css.map",
-    "983.d56a81ed.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/983.d56a81ed.chunk.js.map",
+    "983.25be6817.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/983.25be6817.chunk.js.map",
     "610.10b1db96.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/610.10b1db96.chunk.css.map",
-    "610.13218e99.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/610.13218e99.chunk.js.map",
+    "610.14be155a.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/610.14be155a.chunk.js.map",
     "373.32ab90df.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/373.32ab90df.chunk.css.map",
     "373.87f928b6.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/373.87f928b6.chunk.js.map",
     "497.3e57be24.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/497.3e57be24.chunk.css.map",
@@ -58,7 +58,7 @@
     "703.56993875.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/703.56993875.chunk.css.map",
     "703.c8b90d17.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/703.c8b90d17.chunk.js.map",
     "252.95e88624.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/252.95e88624.chunk.css.map",
-    "252.dc105311.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/252.dc105311.chunk.js.map",
+    "252.b1d2a074.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/252.b1d2a074.chunk.js.map",
     "668.f0ca76e1.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/668.f0ca76e1.chunk.js.map",
     "196.c57b289b.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/196.c57b289b.chunk.js.map",
     "692.1c73c65d.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/692.1c73c65d.chunk.js.map",
@@ -66,7 +66,7 @@
     "790.cffa07c5.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/790.cffa07c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34be5a5d.css",
-    "static/js/main.25c61d65.js"
+    "static/css/main.368143d7.css",
+    "static/js/main.6c3a20cd.js"
   ]
 }
