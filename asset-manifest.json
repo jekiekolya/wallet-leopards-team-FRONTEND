@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.9d67b8df.css",
-    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.4e9fed3b.js",
+    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.c444381a.css",
+    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.b0333e69.js",
     "static/css/983.f128718b.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/983.f128718b.chunk.css",
     "static/js/983.503f625f.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/983.503f625f.chunk.js",
     "static/css/610.f7ba591d.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/610.f7ba591d.chunk.css",
@@ -43,8 +43,8 @@
     "static/media/password_lock.svg": "/wallet-leopards-team-FRONTEND/static/media/password_lock.53dcf1ceffa46ab8ec9ac10e47d8512d.svg",
     "static/media/name.svg": "/wallet-leopards-team-FRONTEND/static/media/name.a7d5d3d3a4cfe3c156f5a1f31b454108.svg",
     "static/media/email.svg": "/wallet-leopards-team-FRONTEND/static/media/email.bbe84bdaa2f575a2555dcbd92c0c1de9.svg",
-    "main.9d67b8df.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.9d67b8df.css.map",
-    "main.4e9fed3b.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.4e9fed3b.js.map",
+    "main.c444381a.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.c444381a.css.map",
+    "main.b0333e69.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.b0333e69.js.map",
     "983.f128718b.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/983.f128718b.chunk.css.map",
     "983.503f625f.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/983.503f625f.chunk.js.map",
     "610.f7ba591d.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/610.f7ba591d.chunk.css.map",
@@ -69,7 +69,7 @@
     "790.cffa07c5.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/790.cffa07c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d67b8df.css",
-    "static/js/main.4e9fed3b.js"
+    "static/css/main.c444381a.css",
+    "static/js/main.b0333e69.js"
   ]
 }
