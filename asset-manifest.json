@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.5165eaef.css",
-    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.c7f2fac3.js",
+    "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.2d916c27.css",
+    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.8169021b.js",
     "static/css/983.f128718b.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/983.f128718b.chunk.css",
     "static/js/983.503f625f.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/983.503f625f.chunk.js",
     "static/css/610.7a8c486b.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/610.7a8c486b.chunk.css",
@@ -43,8 +43,8 @@
     "static/media/password_lock.svg": "/wallet-leopards-team-FRONTEND/static/media/password_lock.53dcf1ceffa46ab8ec9ac10e47d8512d.svg",
     "static/media/name.svg": "/wallet-leopards-team-FRONTEND/static/media/name.a7d5d3d3a4cfe3c156f5a1f31b454108.svg",
     "static/media/email.svg": "/wallet-leopards-team-FRONTEND/static/media/email.bbe84bdaa2f575a2555dcbd92c0c1de9.svg",
-    "main.5165eaef.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.5165eaef.css.map",
-    "main.c7f2fac3.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.c7f2fac3.js.map",
+    "main.2d916c27.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.2d916c27.css.map",
+    "main.8169021b.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.8169021b.js.map",
     "983.f128718b.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/983.f128718b.chunk.css.map",
     "983.503f625f.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/983.503f625f.chunk.js.map",
     "610.7a8c486b.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/610.7a8c486b.chunk.css.map",
@@ -69,7 +69,7 @@
     "790.cffa07c5.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/790.cffa07c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5165eaef.css",
-    "static/js/main.c7f2fac3.js"
+    "static/css/main.2d916c27.css",
+    "static/js/main.8169021b.js"
   ]
 }
