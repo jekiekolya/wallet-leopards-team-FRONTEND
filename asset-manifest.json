@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/wallet-leopards-team-FRONTEND/static/css/main.9a7259e5.css",
-    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.d4a4dcba.js",
+    "main.js": "/wallet-leopards-team-FRONTEND/static/js/main.5dca6b09.js",
     "static/css/983.db5e568e.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/983.db5e568e.chunk.css",
-    "static/js/983.e085e4f9.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/983.e085e4f9.chunk.js",
+    "static/js/983.4c8f91f9.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/983.4c8f91f9.chunk.js",
     "static/css/610.7a8c486b.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/610.7a8c486b.chunk.css",
     "static/js/610.a739de7c.chunk.js": "/wallet-leopards-team-FRONTEND/static/js/610.a739de7c.chunk.js",
     "static/css/373.1cecd856.chunk.css": "/wallet-leopards-team-FRONTEND/static/css/373.1cecd856.chunk.css",
@@ -44,9 +44,9 @@
     "static/media/name.svg": "/wallet-leopards-team-FRONTEND/static/media/name.a7d5d3d3a4cfe3c156f5a1f31b454108.svg",
     "static/media/email.svg": "/wallet-leopards-team-FRONTEND/static/media/email.bbe84bdaa2f575a2555dcbd92c0c1de9.svg",
     "main.9a7259e5.css.map": "/wallet-leopards-team-FRONTEND/static/css/main.9a7259e5.css.map",
-    "main.d4a4dcba.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.d4a4dcba.js.map",
+    "main.5dca6b09.js.map": "/wallet-leopards-team-FRONTEND/static/js/main.5dca6b09.js.map",
     "983.db5e568e.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/983.db5e568e.chunk.css.map",
-    "983.e085e4f9.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/983.e085e4f9.chunk.js.map",
+    "983.4c8f91f9.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/983.4c8f91f9.chunk.js.map",
     "610.7a8c486b.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/610.7a8c486b.chunk.css.map",
     "610.a739de7c.chunk.js.map": "/wallet-leopards-team-FRONTEND/static/js/610.a739de7c.chunk.js.map",
     "373.1cecd856.chunk.css.map": "/wallet-leopards-team-FRONTEND/static/css/373.1cecd856.chunk.css.map",
@@ -70,6 +70,6 @@
   },
   "entrypoints": [
     "static/css/main.9a7259e5.css",
-    "static/js/main.d4a4dcba.js"
+    "static/js/main.5dca6b09.js"
   ]
 }
